@@ -4,7 +4,7 @@
 import unittest
 import sys
 sys.path.append('..')
-from python.caic import Calc
+from python.demo import Calc
 
 class TestCal(unittest.TestCase):
     def test_add_1(self):
